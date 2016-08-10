@@ -295,7 +295,7 @@ def imputation(filename):
     array, impute any missing values in our Lahman baseball
     data sets 'weight' column by setting them equal to the average weight.
 
-    You can access the 'weight' colum in the baseball data frame by
+    You can access the 'weight' column in the baseball data frame by
     calling baseball['weight']
     """
 
